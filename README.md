@@ -1,5 +1,24 @@
 # HEIRUKICHI MULTIPLE ITEMS ON EVENT - MV PLUGIN
 
+## INTRODUCTION
+This plugin allows you to use multiple items when interacting with events, creating combinations of items that you can use for crafting systems and/or puzzles. The default way you use items to interact with events is the same as the one that happens in the required plugin.
+
+------------------------------
+
+## Table of contents
+* [Instructions](#instructions)
+  - Requirements
+  - Item Notetag
+  - Event Notetag
+  - Plugin Commands
+  - Script Calls
+* [License](#license)
+  - Important Notice
+  - Important Notice 2
+* [Credits](#credits)
+
+------------------------------
+
 ## INSTRUCTIONS
 Please, read the following instructions carefully before using this plugin.
 I do not provide support if you fail to understand these instructions and/or if your lack of knowledge of the engine does not allow you to let this plugin work at its best potential.
