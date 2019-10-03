@@ -14,19 +14,16 @@ forum.
 
 ---------------------
 #### Requirements
- ----------------------------------------------------------------------------
  This plugin requires dsiver144 DSI-UseItemOnEvent plugin. Be sure to have it
  installed before using this one.
 
  ----------------------------------------------------------------------------
 #### Item Notetag
- ----------------------------------------------------------------------------
  There is no difference in how event notetags are handled between this plugin
  and dsiver144's. Check the original plugin for information on item notetags.
 
  ----------------------------------------------------------------------------
 #### Event Notetag
- ----------------------------------------------------------------------------
  This plugin handles event notetags differently from the original plugin in
  order to store multiple items interaction with the same event.
 
@@ -39,7 +36,6 @@ forum.
 
  ----------------------------------------------------------------------------
 #### Plugin Commands
- ----------------------------------------------------------------------------
  It is possible to instantly reset stored items for a certain event by using
  the following plugin command inside the said event:
 
@@ -49,7 +45,6 @@ forum.
  the event where the plugin command is used.
 
 #### Script Calls
- ----------------------------------------------------------------------------
  This plugin also provides script calls to make interaction with RPG Maker MV
  default Event Commands easier, especially with Conditional Branches.
  You can use these script calls in a normal script call or in a Conditional
@@ -73,40 +68,40 @@ forum.
    Using this script call in nested Conditional Branches in combination with
    the one used to check the amount of stored items, allows you to create
    a wide variety of combinations and a wide variety of effects.
-   
-============================================================================
+
+---------------------------
 ## LICENSE
-============================================================================
- This plugin is licensed under the GNU General Public License 3.0. This means
- that you can:
- - use this plugin for both commercial and non commercial projects as long as
-  * proper credit is given to me (Heirukichi);
-  * a link to my website is provided;
- - modify this plugin as much as you want as long as
-  * you do not pretend you wrote the whole plugin;
-  * you still give credit to me for the original work;
-  * you provide a link to my website instead of reposting my plugin when you
-    post the modified version of the plugin.
 
- You can review the complete license here:
- https://www.gnu.org/licenses/gpl-3.0.html
+This plugin is licensed under the GNU General Public License 3.0. This means
+that you can:
+- use this plugin for both commercial and non commercial projects as long as
+ * proper credit is given to me (Heirukichi);
+ * a link to my website is provided;
+- modify this plugin as much as you want as long as
+ * you do not pretend you wrote the whole plugin;
+ * you still give credit to me for the original work;
+ * you provide a link to my website instead of reposting my plugin when you
+   post the modified version of the plugin.
 
- If you are using this plugin for a commercial game, I would like to receive
- a link of your game page. The link does not need to contain a free copy of
- your game and it is only used to keep track of games where my plugins are
- being used.
+You can review the complete license here or in the license file:
+https://www.gnu.org/licenses/gpl-3.0.html
 
- While this is not mandatory for non commercial games, I really appreciate if
- you could send me a link regardless of your game being commercial or not.
- You can contact me using the Contacts form on my website or by sending me a
- private message on RPG Maker Web forum.
+If you are using this plugin for a commercial game, I would like to receive
+a link of your game page. The link does not need to contain a free copy of
+your game and it is only used to keep track of games where my plugins are
+being used.
 
- IMPORTANT NOTICE:
- You are free to distribute this plugin as long as you provide a link to my
- website with it. In case you downloaded this plugin from my website, provide
- a link to its download page instead of copy/pasting the code.
+While this is not mandatory for non commercial games, I really appreciate if
+you could send me a link regardless of your game being commercial or not.
+You can contact me using the Contacts form on my website or by sending me a
+private message on RPG Maker Web forum.
 
- IMPORTANT NOTICE 2:
- Credits for the original plugin go to dsiver144 and since you must include
- his plugin to be able to run this one, he must be included in your credits
- as well.
+#### IMPORTANT NOTICE
+You are free to distribute this plugin as long as you provide a link to my
+website with it. In case you downloaded this plugin from my website, provide
+a link to its download page instead of copy/pasting the code.
+
+#### IMPORTANT NOTICE 2
+Credits for the original plugin go to dsiver144 and since you must include
+his plugin to be able to run this one, he must be included in your credits
+as well.
