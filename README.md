@@ -1,32 +1,31 @@
-# MultipleItemsOnEvent-MV
-============================================================================
+# HEIRUKICHI MULTIPLE ITEMS ON EVENT - MV PLUGIN
+
 ## INSTRUCTIONS
-============================================================================
- Please, read the following instructions carefully before using this plugin.
- I do not provide support if you fail to understand these instructions and/or
- if your lack of knowledge of the engine does not allow you to let this
- plugin work at its best potential.
+Please, read the following instructions carefully before using this plugin.
+I do not provide support if you fail to understand these instructions and/or
+if your lack of knowledge of the engine does not allow you to let this
+plugin work at its best potential.
 
- Should something like that occur, I strongly recommend following tutorials
- about how the engine works and how to interact with events/variables, and to
- read carefully what you can do with RPG Maker MV Script calls.
- This basic information can be found on RPG Maker Web, the official Degica
- forum.
+Should something like that occur, I strongly recommend following tutorials
+about how the engine works and how to interact with events/variables, and to
+read carefully what you can do with RPG Maker MV Script calls.
+This basic information can be found on RPG Maker Web, the official Degica
+forum.
 
- ----------------------------------------------------------------------------
- > Requirements
+---------------------
+#### Requirements
  ----------------------------------------------------------------------------
  This plugin requires dsiver144 DSI-UseItemOnEvent plugin. Be sure to have it
  installed before using this one.
 
  ----------------------------------------------------------------------------
- > Item Notetag
+#### Item Notetag
  ----------------------------------------------------------------------------
  There is no difference in how event notetags are handled between this plugin
  and dsiver144's. Check the original plugin for information on item notetags.
 
  ----------------------------------------------------------------------------
- > Event Notetag
+#### Event Notetag
  ----------------------------------------------------------------------------
  This plugin handles event notetags differently from the original plugin in
  order to store multiple items interaction with the same event.
@@ -39,7 +38,7 @@
  Any item id not listed will have no effect when used.
 
  ----------------------------------------------------------------------------
- > Plugin Commands
+#### Plugin Commands
  ----------------------------------------------------------------------------
  It is possible to instantly reset stored items for a certain event by using
  the following plugin command inside the said event:
@@ -49,8 +48,7 @@
  Doing so does not reset all the stored items, but just the items related to
  the event where the plugin command is used.
 
- ----------------------------------------------------------------------------
- > Script Calls
+#### Script Calls
  ----------------------------------------------------------------------------
  This plugin also provides script calls to make interaction with RPG Maker MV
  default Event Commands easier, especially with Conditional Branches.
