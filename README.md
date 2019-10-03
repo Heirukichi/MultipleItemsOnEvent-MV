@@ -12,12 +12,12 @@ read carefully what you can do with RPG Maker MV Script calls.
 This basic information can be found on RPG Maker Web, the official Degica
 forum.
 
----------------------
+_____________
 #### Requirements
  This plugin requires dsiver144 DSI-UseItemOnEvent plugin. Be sure to have it
  installed before using this one.
 
- ----------------------------------------------------------------------------
+ ______________
 #### Item Notetag
  There is no difference in how event notetags are handled between this plugin
  and dsiver144's. Check the original plugin for information on item notetags.
