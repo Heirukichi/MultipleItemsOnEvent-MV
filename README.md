@@ -16,6 +16,7 @@ This plugin allows you to use multiple items when interacting with events, creat
   - Important Notice
   - Important Notice 2
 * [Credits](#credits)
+* [Tutorial](#tutorial)
 
 ------------------------------
 
@@ -86,3 +87,20 @@ Credits for the original plugin go to dsiver144 and since you must include his p
 ---------------
 ## Credits
 Credits go to dsiver144 for the original plugin.
+
+---------------
+## Tutorial
+
+There are many things you can do with this plugin. It can be used to create crafting systems, complex interactions and puzzles. All those things, however, require a certain knowledge of the engine itself, including how to use script calls, plugin commands and how to properly take advantage of event commands.
+
+In this tutorial I am going to show a couple of event pages containing useful information on how to create an event that checks a certain combination and allows the player to automatically select a new item if the selected one matches one of the possible combinations.
+
+![alt text](https://github.com/Heirukichi/MultipleItemsOnEvent-MV/blob/master/Images/PluginEventTutorial.png)
+
+This event, however, does not automatically open your item menu when a viable item is selected (in this example either item 1 or item 2). What it does, instead, is turning on self switch B. Another page, triggered by that said self switch, is what is going to call that scene.
+
+![alt text](https://github.com/Heirukichi/MultipleItemsOnEvent-MV/blob/master/Images/PluginEventTutorial2.png)
+
+What each element of the previous event page does is explained in this picture. Of course, this is not the only way to do this. This tutorial simply shows you a few possible ways to use the script calls included in this plugin, but do not let it limit you and let your imagination run wild, there are many more things that you can do using this plugin.
+
+![alt text](https://github.com/Heirukichi/MultipleItemsOnEvent-MV/blob/master/Images/PluginEventTutorial%5BText%5D.png)
