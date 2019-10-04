@@ -1,9 +1,9 @@
 /*****************************************************************************
  * Filename       : HRK_MultipleItemsOnEvent.js
- * Last Update    : October 3rd 2019
+ * Last Update    : October 4th 2019
  ****************************************************************************/
 /*:
- * @plugindesc v1.0.0 - Last update: 10-03-2019 [MM-DD-YYYY]
+ * @plugindesc v1.0.0 - Last update: 10-04-2019 [MM-DD-YYYY]
  * This plugin allows you to use multiple items to interact with events.
  * @author Heirukichi
  * ----------------------------------------------------------------------------
@@ -139,6 +139,8 @@
  * You are free to distribute this plugin as long as you provide a link to my
  * website with it. In case you downloaded this plugin from my website, provide
  * a link to its download page instead of copy/pasting the code.
+ *
+ * My website: https://heirukichiworks.wordpress.com
  *
  * IMPORTANT NOTICE 2:
  * Credits for the original plugin go to dsiver144 and since you must include
